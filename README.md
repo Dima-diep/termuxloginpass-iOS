@@ -44,7 +44,6 @@ $ chmod 777 * && sh uninstall-bash.sh (or uninstall-zsh.sh)
 ```
 ## Additional protect
 
-```
 ### Run (but it isn t very good)
 ```
 $ addition.sh
