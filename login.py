@@ -2,9 +2,6 @@
 #! -*- coding: utf-8 -*-
 import os
 
-os.system("touch exit.sh")
-os.system("echo \"#!/bin/bash\" > exit.sh")
-os.system("echo \"exit\" >> exit.sh")
 try:
     login = "oldlogin"
     print("Login:")
