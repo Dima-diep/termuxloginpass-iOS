@@ -30,17 +30,9 @@ $ python3 chpass.py
 
 ## Installation
 
-Run ***install-bash.sh*** if you use bash
+Run ***install.sh***
 ```
-$ sh install-bash.sh
-```
-Run ***install-zsh.sh*** if you use zsh
-```
-$ sh install-zsh.sh
-```
-Analogically you can uninstall it
-```
-$ chmod 777 * && sh uninstall-bash.sh (or uninstall-zsh.sh)
+$ sh install.sh
 ```
 ## Additional protect
 
@@ -52,5 +44,5 @@ $ addition.sh
 
 For uninstall, run
 ```
-$ python3 uninstall-bash.py (uninstall-zsh.py)
+$ python3 uninstall.py
 ```
