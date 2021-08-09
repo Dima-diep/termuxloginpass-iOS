@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #! -*- coding: utf-8 -*-
 
+print("Write login by 'login' (not login)")
 print("Old login:")
 a = input()
 print("New login:")
